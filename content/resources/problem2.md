@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Architectural design exercise.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-143-immaterial-limits-process-and-duration-fall-2002/f27b68dff2aa1dd1e782a401dde0f022_problem2.pdf
+file: /media/courses/4-143-immaterial-limits-process-and-duration-fall-2002/f27b68dff2aa1dd1e782a401dde0f022_problem2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Calendar
+parent_type: CourseSection
 resourcetype: Document
 title: 'Problem 2: Duration and Depth: Site Strategies in 3 Dimension/ De-familiarization
   in Flat'
