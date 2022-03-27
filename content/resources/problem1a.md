@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 8135871f-d95c-5591-a31d-0f5c4853f0a5
 resourcetype: Document
 title: 'Problem 1: Out-of-Joint'
 uid: 62470e03-d4c3-984b-fb21-509a3f1560dc

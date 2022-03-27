@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: abda8a7a-87ba-0ab2-1532-535ac098a3f5
 resourcetype: Document
 title: 'Problem 2: Duration and Depth: Site Strategies in 3 Dimension/ De-familiarization
   in Flat'

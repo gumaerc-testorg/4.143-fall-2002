@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: abda8a7a-87ba-0ab2-1532-535ac098a3f5
 resourcetype: Document
 title: 'Problem 3: Extreme Geology Center: Program'
 uid: fb01331c-87ca-cfa2-6123-bc94176532b4
