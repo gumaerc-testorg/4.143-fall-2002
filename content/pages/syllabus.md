@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides a course summary, information on meeting
+  times, and three problems.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -27,8 +29,8 @@ The Stearns Quarry site presents a unique opportunity to engage temporal change,
 Problems
 --------
 
-Problem 1: Out of Joint ([PDF]({{< baseurl >}}/resources/problem1a))
+Problem 1: Out of Joint ({{% resource_link 62470e03-d4c3-984b-fb21-509a3f1560dc "PDF" %}})
 
-Problem 2: Duration and Depth ([PDF]({{< baseurl >}}/resources/problem2))
+Problem 2: Duration and Depth ({{% resource_link f27b68df-f2aa-1dd1-e782-a401dde0f022 "PDF" %}})
 
-Problem 3: Extreme Geology Center ([PDF]({{< baseurl >}}/resources/problem3))
+Problem 3: Extreme Geology Center ({{% resource_link 5f2ee323-ec0a-7155-d148-f39671e4c7e4 "PDF" %}})
