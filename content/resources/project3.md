@@ -5,6 +5,7 @@ file: /courses/4-143-immaterial-limits-process-and-duration-fall-2002/fb01331c87
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem 3: Extreme Geology Center: Program'
 uid: fb01331c-87ca-cfa2-6123-bc94176532b4
 ---
 Architectural design exercise.
-

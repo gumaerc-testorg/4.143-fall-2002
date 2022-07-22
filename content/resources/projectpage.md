@@ -5,6 +5,7 @@ file: /courses/4-143-immaterial-limits-process-and-duration-fall-2002/496b01608f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Student Projects
 uid: 496b0160-8f2f-b26a-4662-e5188b3ef2bc
 ---
 Examples of student work for the course project.
-
