@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Architectural design exercise.
-file: /ol-ocw-studio-app/courses/4-143-immaterial-limits-process-and-duration-fall-2002/62470e03d4c3984bfb21509a3f1560dc_problem1a.pdf
+file: /courses/4-143-immaterial-limits-process-and-duration-fall-2002/62470e03d4c3984bfb21509a3f1560dc_problem1a.pdf
 file_size: 303920
 file_type: application/pdf
 learning_resource_types: []
