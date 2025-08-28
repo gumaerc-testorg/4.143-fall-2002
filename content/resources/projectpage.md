@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Examples of student work for the course project.
-file: /courses/4-143-immaterial-limits-process-and-duration-fall-2002/496b01608f2fb26a4662e5188b3ef2bc_projectpage.pdf
+file: /ol-ocw-studio-app/courses/4-143-immaterial-limits-process-and-duration-fall-2002/496b01608f2fb26a4662e5188b3ef2bc_projectpage.pdf
 file_size: 486057
 file_type: application/pdf
 learning_resource_types:
